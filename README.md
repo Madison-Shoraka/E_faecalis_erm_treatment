@@ -20,5 +20,5 @@ Simulation_Fig9 -> This file is the code used to generate the simulation results
 
 Figure 5 data-> Treated vs Untreated Growth rate #2-2 and Treated vs Untreated Growth rate #2-3
 
-Figure 8 videos -> 
+Figure 8 videos -> Fig8_B_flux_reduction_video and Fig8_A_flux_reduction_video
 
