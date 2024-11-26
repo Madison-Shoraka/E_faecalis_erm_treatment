@@ -18,3 +18,7 @@ Simulation_Fig9 -> This file is the code used to generate the simulation results
           
             parameters, they use the same ones or do not need them
 
+Figure 5 data-> Treated vs Untreated Growth rate #2-2 and Treated vs Untreated Growth rate #2-3
+
+Figure 8 videos -> 
+
